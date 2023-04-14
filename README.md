@@ -1,4 +1,4 @@
-# Vitesee DApp
+# Vitesee DAPP
 
 Vitesee Decentralized Next Application.
 
