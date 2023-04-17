@@ -1,5 +1,7 @@
 # Vitesee DAPP
 
+![VDNA.logo](./public/logo.svg)
+
 Vitesee Decentralized Next Application.
 
 Vitesee-based DApp-scaffold with multiple presets to quickly get started with development and embrace the Vue community. 

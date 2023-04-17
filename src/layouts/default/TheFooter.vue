@@ -36,7 +36,7 @@ const date = new Date().getFullYear()
       <div class="right">
         <div class="brands">
           <RouterLink :to="{ path: '/' }">
-            <img src="/logo.png" alt="VDNA" draggable="false" />
+            <img src="/logo.svg" alt="VDNA" draggable="false" />
           </RouterLink>
         </div>
         <div class="text-brand-hint typo-0 font-400 mt-19px">

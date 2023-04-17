@@ -70,7 +70,7 @@ watch(
     >
       <RouterLink :to="{ path: '/' }" custom v-slot="{ navigate }">
         <div class="h-32px md:(h-35px)" @click="closeSider(navigate)">
-          <img class="h-full" src="/logo.png" alt="VDNA" />
+          <img class="h-full" src="/logo.svg" alt="VDNA" />
         </div>
       </RouterLink>
 

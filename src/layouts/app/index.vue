@@ -75,7 +75,7 @@ provide('reload', reload)
       class="fixed w-full flex items-center justify-between overflow-hidden py-14px px-16px border-b-1px h-60px z-3001 bg-white md:(hidden)"
     >
       <RouterLink to="/" title="Home">
-        <img class="h-32px" src="/logo.png" alt="" />
+        <img class="h-32px" src="/logo.svg" alt="" />
       </RouterLink>
       <div class="text-brand-main md:(hidden)" @click="toggle()">
         <Transition name="fade" mode="out-in">
@@ -94,7 +94,7 @@ provide('reload', reload)
           class="hidden overflow-hidden w-full py-32px h-99px justify-center items-center md:(flex)"
         >
           <RouterLink to="/" title="Home">
-            <img class="h-35px" src="/logo.png" alt="" />
+            <img class="h-35px" src="/logo.svg" alt="" />
           </RouterLink>
         </div>
         <div
