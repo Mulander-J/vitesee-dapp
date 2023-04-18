@@ -37,7 +37,7 @@ const ecoList = [
   { icon: 'i-logos:vueuse', link: 'https://vueuse.org/' },
   { icon: 'i-logos:unocss', link: 'https://github.com/antfu/unocss' },
   { icon: 'i-custom:icones', link: 'https://icones.js.org/' }, // custom icon set
-  { img: '/favicon.svg', link: 'https://github.com/antfu/vitesse' }, // public assets
+  { img: '/safari-pinned-tab.svg', link: 'https://github.com/antfu/vitesse' }, // public assets
   { icon: 'i-custom:wagmi', link: 'https://wagmi.sh/core/getting-started' },
   { img: IconMetamask, link: 'https://metamask.io' },
   { icon: 'i-custom:walletconnect', link: 'https://walletconnect.com' },

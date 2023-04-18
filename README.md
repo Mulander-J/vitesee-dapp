@@ -50,6 +50,14 @@ Vitesee-based DApp-scaffold with multiple presets to quickly get started with de
 - [VueUse](https://github.com/antfu/vueuse) - collection of useful composition APIs
 - [dayjs](https://day.js.org) - immutable date time library alternative to Moment.js with the same modern API.
 
+## Preview
+
+**Component**
+![components](./docs/components.png)
+
+**ECO**
+![ecos](./docs/ecos.png)
+
 ## Usage
 
 ### Development
