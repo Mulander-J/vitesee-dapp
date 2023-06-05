@@ -1,4 +1,4 @@
-# Vitesee DAPP
+# Vitesee DApp
 
 ![VDNA.logo](./public/logo.svg)
 
